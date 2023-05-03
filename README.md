@@ -23,7 +23,7 @@
 
 Найдите число баллов, которое смогут заработать Гоша и Тимофей, если будут нажимать на клавиши вдвоём.
 
-
+![sample_keyboard](https://github.com/Anya-sl/ya_practicum_sprint_15_algoritms/blob/main/b_sleight_of_hand_0.PNG)
 
 ### Формат ввода
 В первой строке дано целое число k (1 ≤ k ≤ 5).
@@ -32,3 +32,5 @@
 
 ### Формат вывода
 Выведите единственное число -— максимальное количество баллов, которое смогут набрать Гоша и Тимофей.
+![sample_1_2](https://github.com/Anya-sl/ya_practicum_sprint_15_algoritms/blob/main/b_sleight_of_hand_1.PNG)
+![sample_3](https://github.com/Anya-sl/ya_practicum_sprint_15_algoritms/blob/main/b_sleight_of_hand_2.PNG)

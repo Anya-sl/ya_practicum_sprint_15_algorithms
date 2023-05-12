@@ -3,7 +3,7 @@
 
 <details>
 <summary>
-<b>A. Ближайший ноль ([(решение)](https://github.com/Anya-sl/ya_practicum_sprint_15_algorithms/blob/main/a_nearest_zero.py)</b>
+<b>A. Ближайший ноль [(решение)](https://github.com/Anya-sl/ya_practicum_sprint_15_algorithms/blob/main/a_nearest_zero.py)</b>
 </summary>
 
 Тимофей ищет место, чтобы построить себе дом. Улица, на которой он хочет жить, имеет длину n, то есть состоит из n одинаковых идущих подряд участков. Каждый участок либо пустой, либо на нём уже построен дом.

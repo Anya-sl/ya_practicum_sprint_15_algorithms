@@ -2,7 +2,9 @@
 Задачи по алгоритмам из курса Яндекс Практикум, 15 спринт
 
 <details>
-<summary> ## [A. Ближайший ноль](https://github.com/Anya-sl/ya_practicum_sprint_15_algorithms/blob/main/a_nearest_zero.py)</summary>
+<summary>
+## [A. Ближайший ноль](https://github.com/Anya-sl/ya_practicum_sprint_15_algorithms/blob/main/a_nearest_zero.py)
+</summary>
 
 Тимофей ищет место, чтобы построить себе дом. Улица, на которой он хочет жить, имеет длину n, то есть состоит из n одинаковых идущих подряд участков. Каждый участок либо пустой, либо на нём уже построен дом.
 

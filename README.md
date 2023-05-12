@@ -2,7 +2,7 @@
 Задачи по алгоритмам из курса Яндекс Практикум, 15 спринт
 
 <details>
-<summary>## [A. Ближайший ноль](https://github.com/Anya-sl/ya_practicum_sprint_15_algorithms/blob/main/a_nearest_zero.py)</summary>
+<summary> ## [A. Ближайший ноль](https://github.com/Anya-sl/ya_practicum_sprint_15_algorithms/blob/main/a_nearest_zero.py)</summary>
 
 Тимофей ищет место, чтобы построить себе дом. Улица, на которой он хочет жить, имеет длину n, то есть состоит из n одинаковых идущих подряд участков. Каждый участок либо пустой, либо на нём уже построен дом.
 
@@ -22,7 +22,7 @@
 </details>
 
 <details>
-<summary>## [B. Ловкость рук](https://github.com/Anya-sl/ya_practicum_sprint_15_algorithms/blob/main/b_sleight_of_hand.py)</summary>
+<summary> ## [B. Ловкость рук](https://github.com/Anya-sl/ya_practicum_sprint_15_algorithms/blob/main/b_sleight_of_hand.py)</summary>
 Игра «Тренажёр для скоростной печати» представляет собой поле из клавиш 4x4. В нём на каждом раунде появляется конфигурация цифр и точек. На клавише написана либо точка, либо цифра от 1 до 9.
 
 В момент времени t игрок должен одновременно нажать на все клавиши, на которых написана цифра t. Гоша и Тимофей могут нажать в один момент времени на k клавиш каждый. Если в момент времени t нажаты все нужные клавиши, то игроки получают 1 балл.
